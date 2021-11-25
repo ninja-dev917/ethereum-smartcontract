@@ -1,14 +1,14 @@
 {
   "contractName": "TodoList",
   "abi": [],
-  "bytecode": "0x608060405260008055348015601357600080fd5b5060358060216000396000f3fe6080604052600080fdfea165627a7a72305820aa50a046b624f8b09c1d1ace6ec0534333f900a1800327e7de0bfb78a12e57d80029",
-  "deployedBytecode": "0x6080604052600080fdfea165627a7a72305820aa50a046b624f8b09c1d1ace6ec0534333f900a1800327e7de0bfb78a12e57d80029",
+  "bytecode": "0x608060405260008055348015601357600080fd5b5060358060216000396000f3fe6080604052600080fdfea165627a7a72305820d64a29c0a1b436a535be905dcf5a20e62329475344ac25e4c588678ba1137b8f0029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a72305820d64a29c0a1b436a535be905dcf5a20e62329475344ac25e4c588678ba1137b8f0029",
   "sourceMap": "69:45:1:-;;;109:1;92:18;;69:45;8:9:-1;5:2;;;30:1;27;20:12;5:2;69:45:1;;;;;;;",
   "deployedSourceMap": "69:45:1:-;;;;;",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.4.22 <0.9.0;\r\n\r\ncontract TodoList {\r\n  uint taskCount = 0;\r\n}\r\n",
-  "sourcePath": "D:/git_history/mikhay_git/Eth-todo-list/contracts/TodoList.sol",
+  "sourcePath": "D:/git_history/webdev917/Eth-todo-list/contracts/TodoList.sol",
   "ast": {
-    "absolutePath": "/D/git_history/mikhay_git/Eth-todo-list/contracts/TodoList.sol",
+    "absolutePath": "/D/git_history/webdev917/Eth-todo-list/contracts/TodoList.sol",
     "exportedSymbols": {
       "TodoList": [
         38
@@ -95,7 +95,7 @@
     "src": "33:83:1"
   },
   "legacyAST": {
-    "absolutePath": "/D/git_history/mikhay_git/Eth-todo-list/contracts/TodoList.sol",
+    "absolutePath": "/D/git_history/webdev917/Eth-todo-list/contracts/TodoList.sol",
     "exportedSymbols": {
       "TodoList": [
         38
@@ -187,7 +187,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.1",
-  "updatedAt": "2021-11-23T21:19:49.304Z",
+  "updatedAt": "2021-11-25T00:35:56.144Z",
   "devdoc": {
     "methods": {}
   },
